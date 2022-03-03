@@ -9,8 +9,9 @@ def delete():
     return
 
 def multiply():
-    print("This is function multiply")
+    print("This is function multiply.")
     return
+
 
 add()
 delete()
