@@ -4,8 +4,8 @@ def add():
     print("This is function add")
     return
 
-def delete():
-    print("This is function delete")
+def subtract():
+    print("This is function subtract")
     return
 
 def multiply():
@@ -14,5 +14,5 @@ def multiply():
 
 
 add()
-delete()
+subtract()
 multiply()
