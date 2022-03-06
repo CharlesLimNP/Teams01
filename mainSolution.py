@@ -1,4 +1,4 @@
-print("Hello world! This is our Team's solution!")
+print("Hello world!! This is our Team's solution!")
 
 def add():
     print("This is function add")
